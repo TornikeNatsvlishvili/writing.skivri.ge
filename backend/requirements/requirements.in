@@ -1,0 +1,7 @@
+Flask
+Flask-Mail
+flask-cors
+gunicorn
+itsdangerous
+pymongo
+Werkzeug

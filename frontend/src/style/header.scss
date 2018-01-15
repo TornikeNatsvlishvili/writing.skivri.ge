@@ -1,0 +1,28 @@
+.header {
+    height: 2rem;
+    background: #c80100;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+}
+
+.header .logo {
+    font-family: 'BPG Nateli Mtavruli';
+    color: white;
+    font-weight: bold;
+}
+
+.header .content {
+    display: flex;
+    justify-content: space-between;
+    color: white
+}
+
+.header a {
+    color:white;
+    &:hover {
+        // text-decoration: underline;
+        border-bottom: 2px solid white;
+        margin-bottom: -2px;
+    }
+}
