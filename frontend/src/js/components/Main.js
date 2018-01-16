@@ -34,7 +34,8 @@ class Main extends Component {
                         <div className="title">
                             ხელწერის ნიმუშების შეგროვება
                         </div>
-                        <p>მინდა შეიქმნას ქართული ასოების დეტასეტი რომ მომავალში იყოს ასოების ამომცობის გაწვრთნა შესაძლებელი.</p>
+                        <p>მინდა შეიქმნას ქართული ხელნაწერი ასოების დეტასეტი რომ მომავალში იყოს ასოების ამომცობის გაწვრთნა შესაძლებელი.</p>
+                        <p>მიზანი არის რომ დაახლოვებით <a href="http://yann.lecun.com/exdb/mnist/" target="blank">MNIST</a>-ის რაოდენობა შეიკრიბოს (60,000).</p>
                         <h2>1. ჩამოვტვირთოთ შესავსები დოკუმენტი: <a
                             href="https://github.com/TornikeNatsvlishvili/writing.skivri.ge/raw/master/Georgian%20Training%20Input%20Sheet.pdf"
                             download>ჩამოტვირთვა</a></h2>
